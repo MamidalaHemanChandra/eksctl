@@ -10,3 +10,4 @@ managedNodeGroups:
     instanceTypes: ["t3.small"]
     desiredCapacity: 3
     spot: true
+    
